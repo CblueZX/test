@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void){
-  printf("Classic Cblue is the GOAT");
+  printf("'Cblue X' is the reaaaaaal dude <3");
   return 0;
 }
